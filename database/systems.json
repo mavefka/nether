@@ -1,0 +1,23 @@
+{
+  "mute": [
+    {
+      "guild": "782694077408739370",
+      "guild_name": "Wently & KessieN",
+      "user": "790867284213628928",
+      "user_name": "Torz",
+      "staff": "591920709689802753",
+      "staff_username": "KessieN",
+      "channel": "796439264958611476",
+      "channel_name": "sohbet",
+      "reason": "31 sj",
+      "time": "1m",
+      "finishtime": 1610098184201
+    }
+  ],
+  "ban": [],
+  "kufurEngel": [],
+  "autorole": [],
+  "reklamEngel": [],
+  "security": [],
+  "counter": []
+}
